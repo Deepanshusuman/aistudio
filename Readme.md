@@ -44,10 +44,6 @@ No design, writing, or planning skills needed — just your imagination.
 
 ---
 
-## ☕ Donate
-
-**UPI (India)**: `dnano@ybl`
-
 ## 📝 License
 
 No Licence — free to use, remix, and share. Credit appreciated but not required.
